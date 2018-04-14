@@ -3,6 +3,14 @@
 */
 .navbar a {
     border: none;
+    text-decoration: none;
+    color: $mycolor-3;
+    font-family: $myfont-family-base;
+    font-weight: 300;
+}
+
+.navigatie {
+    background-color: #fff; 
 }
 
 /* FOOTER
@@ -18,7 +26,9 @@ body {
     margin: 0;
     padding-bottom: 6rem;
     min-height: 100%;
+    background-color: $mycolor-4;
   }
+
 
 .bh-absolute-bottom {
   position: absolute;
@@ -27,9 +37,17 @@ body {
   left: 0;
 }
 
+.pushbottom {
+
+    height: 200px;
+}
+
+
 footer {
     background-color: $mycolor-2;
     color: $color-white;
+    padding-top: 30px;
+    
     a {
         color: $color-white;
         &:hover {
@@ -38,26 +56,233 @@ footer {
     }
 }
 
-/* BACK TO TOP
+#to-top {
+    display: none;
+    /* Hidden by default */
+    position: fixed;
+    /* Fixed/sticky position */
+    bottom: 20px;
+    /* Place the button at the bottom of the page */
+    right: 30px;
+    /* Place the button 30px from the right */
+    z-index: 99;
+    /* Make sure it does not overlap */
+    border: none;
+    /* Remove borders */
+    outline: none;
+    /* Remove outline */
+    background-color: $mycolor-1;
+    /* Set a background color */
+    color: white;
+    /* Text color */
+    cursor: pointer;
+    /* Add a mouse pointer on hover */
+    width: 40px;
+    height: 40px;
+    border-radius: 0;
+    /* Rounded corners */
+    font-size: 25px;
+    /* Increase font size */
+    }
+    #to-top:hover {
+      background-color: $mycolor-3; }
+  
+ 
+
+.footer_img {
+    margin: 15px;
+    height: 70px;
+}
+
+
+.navbar-brand {
+    width: 10%;
+    text-align: center;
+    margin: 10px;}
+
+.prenav{
+        background-color:$mycolor-3;
+        
+    }
+    .navbar-toggler  {
+        background-color: #fff;
+       
+
+    }
+    .navbar-toggler-icon {
+        background-color: #fff;
+
+    }
+
+
+.navbar-brand {
+    fill: #fff;
+}
+
+
+.contentbox {
+    
+    border-color: $mycolor-3;
+    margin-bottom: 30px;
+    width:100%;
+    padding: 20px;
+    background-color: #fff;
+    min-height: 200px;
+}
+
+.firstcontentbox {
+    border-color: $mycolor-3;
+    margin-bottom: 30px;
+    width:100%;
+    padding: 20px;
+    background-color: #fff;
+    min-height: 100px;
+}
+
+.rand {
+    border-color: $mycolor-3;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.hoogte_afm {
+    max-height: 200px;
+}
+
+.nested {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px; 
+
+}
+
+.kleurvak {
+    color: #fff;
+    padding: 30px 0 30px 30px;
+}
+
+.rood {
+    background-color: $mycolor-1;
+
+}
+
+.blauw {
+    background-color: $mycolor-2;
+
+}
+
+.geel {
+    background-color: $mycolor-3;
+
+}
+
+.grijs {
+    background-color: #D9D8D6;
+    color: $mycolor-3;
+
+}
+
+.grad_rood{
+background: -moz-linear-gradient(left, rgba(229,15,69,0.2) 0%, rgba(229,15,69,0.25) 24%, rgba(229,15,69,0.5) 25%, rgba(229,15,69,0.5) 50%, rgba(229,15,69,0.75) 51%, rgba(229,15,69,0.75) 75%, rgba(229,15,69,1) 76%, rgba(229,15,69,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left, rgba(229,15,69,0.2) 0%,rgba(229,15,69,0.25) 24%,rgba(229,15,69,0.5) 25%,rgba(229,15,69,0.5) 50%,rgba(229,15,69,0.75) 51%,rgba(229,15,69,0.75) 75%,rgba(229,15,69,1) 76%,rgba(229,15,69,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right, rgba(229,15,69,0.2) 0%,rgba(229,15,69,0.25) 24%,rgba(229,15,69,0.5) 25%,rgba(229,15,69,0.5) 50%,rgba(229,15,69,0.75) 51%,rgba(229,15,69,0.75) 75%,rgba(229,15,69,1) 76%,rgba(229,15,69,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#33e50f45', endColorstr='#e50f45',GradientType=1 ); /* IE6-9 */
+
+}
+.grad_geel{
+background: -moz-linear-gradient(left, rgba(242,196,0,0.2) 0%, rgba(242,196,0,0.25) 24%, rgba(242,196,0,0.5) 25%, rgba(242,196,0,0.5) 50%, rgba(242,196,0,0.75) 51%, rgba(242,196,0,0.75) 75%, rgba(242,196,0,1) 76%, rgba(242,196,0,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left, rgba(242,196,0,0.2) 0%,rgba(242,196,0,0.25) 24%,rgba(242,196,0,0.5) 25%,rgba(242,196,0,0.5) 50%,rgba(242,196,0,0.75) 51%,rgba(242,196,0,0.75) 75%,rgba(242,196,0,1) 76%,rgba(242,196,0,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right, rgba(242,196,0,0.2) 0%,rgba(242,196,0,0.25) 24%,rgba(242,196,0,0.5) 25%,rgba(242,196,0,0.5) 50%,rgba(242,196,0,0.75) 51%,rgba(242,196,0,0.75) 75%,rgba(242,196,0,1) 76%,rgba(242,196,0,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#33f2c400', endColorstr='#f2c400',GradientType=1 ); /* IE6-9 */
+}
+
+.grad_blauw{
+background: -moz-linear-gradient(left, rgba(17,44,69,0.2) 0%, rgba(17,44,69,0.25) 24%, rgba(17,44,69,0.5) 25%, rgba(17,44,69,0.5) 50%, rgba(17,44,69,0.75) 51%, rgba(17,44,69,0.75) 75%, rgba(17,44,69,1) 76%, rgba(17,44,69,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left, rgba(17,44,69,0.2) 0%,rgba(17,44,69,0.25) 24%,rgba(17,44,69,0.5) 25%,rgba(17,44,69,0.5) 50%,rgba(17,44,69,0.75) 51%,rgba(17,44,69,0.75) 75%,rgba(17,44,69,1) 76%,rgba(17,44,69,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right, rgba(17,44,69,0.2) 0%,rgba(17,44,69,0.25) 24%,rgba(17,44,69,0.5) 25%,rgba(17,44,69,0.5) 50%,rgba(17,44,69,0.75) 51%,rgba(17,44,69,0.75) 75%,rgba(17,44,69,1) 76%,rgba(17,44,69,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#33112c45', endColorstr='#112c45',GradientType=1 ); /* IE6-9 */
+}
+
+.grad_grijs{
+background: -moz-linear-gradient(left, rgba(217,216,214,0.2) 0%, rgba(217,216,214,0.25) 24%, rgba(217,216,214,0.5) 25%, rgba(217,216,214,0.5) 50%, rgba(217,216,214,0.75) 51%, rgba(217,216,214,0.75) 75%, rgba(217,216,214,1) 76%, rgba(217,216,214,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left, rgba(217,216,214,0.2) 0%,rgba(217,216,214,0.25) 24%,rgba(217,216,214,0.5) 25%,rgba(217,216,214,0.5) 50%,rgba(217,216,214,0.75) 51%,rgba(217,216,214,0.75) 75%,rgba(217,216,214,1) 76%,rgba(217,216,214,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right, rgba(217,216,214,0.2) 0%,rgba(217,216,214,0.25) 24%,rgba(217,216,214,0.5) 25%,rgba(217,216,214,0.5) 50%,rgba(217,216,214,0.75) 51%,rgba(217,216,214,0.75) 75%,rgba(217,216,214,1) 76%,rgba(217,216,214,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#33d9d8d6', endColorstr='#d9d8d6',GradientType=1 ); /* IE6-9 */
+}
+
+.txtcenter {
+    text-align: center;
+
+}
+
+/* Knoppen
+----------------------------------------------
+*/
+.knop {
+    border-style: none;
+    background-color: $mycolor-1;
+    text-transform: uppercase;
+    text-align: center;
+    vertical-align: center;
+    color: #fff;
+
+}
+
+button{
+
+    border: none;
+    background-color: $mycolor-1;
+    color: #fff;
+    font-weight: bold;
+
+}
+
+.marginbottom {
+    margin-bottom: 50px;
+}
+
+/* media query
 -------------------------
 */
-#to-top {
-  display: none; /* Hidden by default */
-  position: fixed; /* Fixed/sticky position */
-  bottom: 20px; /* Place the button at the bottom of the page */
-  right: 30px; /* Place the button 30px from the right */
-  z-index: 99; /* Make sure it does not overlap */
-  border: none; /* Remove borders */
-  outline: none; /* Remove outline */
-  background-color:$mycolor-3; /* Set a background color */
-  color: white; /* Text color */
-  cursor: pointer; /* Add a mouse pointer on hover */
-  //padding: 15px; /* Some padding */
-  width: 40px;
-  height: 40px;
-  border-radius: 20px; /* Rounded corners */
-  font-size: 18px; /* Increase font size */
-  &:hover {
-    background-color:$mycolor-5; 
-  }
+
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { 
+    .navbar-brand {
+   
+    max-width: 50px;
+    fill: #fff;}
+
+    
+    
+    
+} 
+
+    
+        
+    
+
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+    .navbar{
+        background-color: #fff;
+
+    }
+
+    .navbar-brand {
+        width: 50px;
+        display: block;
+    }
 }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {  }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {  }
+
+
+
+
+

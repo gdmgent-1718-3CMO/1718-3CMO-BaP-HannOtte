@@ -5,26 +5,33 @@ published: true
 title: Logo intro
 ---
 
-# Het beste logo ooit
+# Musicals, dat is ons ding
 
-## Consectetur adipiscing elit.
+## introductie
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Idem iste, inquam, de voluptate quid sentit? Istam voluptatem perpetuam quis potest praestare sapienti? Aliam vero vim voluptatis esse, aliam nihil dolendi, nisi valde pertinax fueris, concedas necesse est. Sed tamen enitar et, si minus multa mihi occurrent, non fugiam ista popularia. Sed ad bona praeterita redeamus. Duo Reges: constructio interrete. Atque ab isto capite fluere necesse est omnem rationem bonorum et malorum. Quamquam te quidem video minime esse deterritum.
+<p>
+	Het logo, dat is de samenvatting van je merk, de spreekwoordelijke eerste indruk.
+	Het is het centrum van je herkenbaarheid en komt op praktisch elk element terug.
+	De uitdaging gepaard aan het ontwikkelen van een nieuw logo was niet min, het logo moet sterk staan op zichzelf en in combinatie met de huisstijl, maar low-profile ingezet kunnen worden op de stijl die we toegestuurd krijgen in logopacks van elke nieuwe productie.
+</p>
+<p>	<br>Het logo van Arte del Sueño heeft dus eigenlijk 2 gezichten en daar kunnen we handig gebruik van maken! 
+	Zo is het bv. een zeer goed logo om bovenop sfeerfotografie te plaatsen, en staat het tegelijk krachtig op volvlakken.
+	<br><em>Net zoals een goede acteur verschillende rollen aankan dus!</em>
+</p>
 
-Aliud igitur esse censet gaudere, aliud non dolere. Eorum enim omnium multa praetermittentium, dum eligant aliquid, quod sequantur, quasi curta sententia; Duae sunt enim res quoque, ne tu verba solum putes. Illi enim inter se dissentiunt.
+<p>
+	Dan is er ook nog een ander kenmerk die zijn weg gevonden heeft binnen de huisstijl van Arte del Sueño, wat <em>"de kunst van het dromen"</em> betekent.
+	Het gaat om een element dat onze Spaanse naam rijk is, maar vaak vergeten wordt.
+	Op de N van Sueño <em>['sweɲo]</em>, staat namelijk de <em>tilde</em> (~).
+</p>
 
-<a href="http://loripsum.net/" target="_blank">Sed potestne rerum maior esse dissensio?</a> Quid, de quo nulla dissensio est? Etenim semper illud extra est, quod arte comprehenditur. Cuius ad naturam apta ratio vera illa et summa lex a philosophis dicitur. Eam tum adesse, cum dolor omnis absit; Eaedem enim utilitates poterunt eas labefactare atque pervertere.
+<p>
+	Net omdat het zowel in de uitspraak als bij het schrijven zo vaak vergeten wordt, werd het opgenomen in het logo van de vzw.
+	Het bevindt zich in de negatieve ruimte en verdeelt het logo in 2 delen, boven en onderkant.
+	We zetten de tilde even in de schijnwerper, een geheugensteuntje voor wie hem al eens durft te vergeten.
+</p>
 
-## Ne in odium veniam.
-    
-Pisone in eo gymnasio, quod Ptolomaeum vocatur, unaque nobiscum Q. Videmus igitur ut conquiescere ne infantes quidem possint. Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; <a href="http://loripsum.net/" target="_blank">Quibusnam praeteritis?</a> <a href="http://loripsum.net/" target="_blank">Omnia peccata paria dicitis.</a> Praetereo multos, in bis doctum hominem et suavem, Hieronymum, quem iam cur Peripateticum appellem nescio. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. Quid affers, cur Thorius, cur Caius Postumius, cur omnium horum magister, Orata, non iucundissime vixerit? Aliter homines, aliter philosophos loqui putas oportere? <mark>Age, inquies, ista parva sunt.</mark>
-
-- Hominum non spinas vellentium, ut Stoici, nec ossa nudantium, sed eorum, qui grandia ornate vellent, enucleate minora dicere.
-- Nam diligi et carum esse iucundum est propterea, quia tutiorem vitam et voluptatem pleniorem efficit.
-- Quem si tenueris, non modo meum Ciceronem, sed etiam me ipsum abducas licebit.
-- Naturales divitias dixit parabiles esse, quod parvo esset natura contenta.
-- Tum, Quintus et Pomponius cum idem se velle dixissent, Piso exorsus est.
-- Huic ego, si negaret quicquam interesse ad beate vivendum quali uteretur victu, concederem, laudarem etiam;
-
-
-<mark>Primum Theophrasti, Strato, physicum se voluit;</mark> Quid affers, cur Thorius, cur Caius Postumius, cur omnium horum magister, Orata, non iucundissime vixerit? Eadem nunc mea adversum te oratio est. Sed vos squalidius, illorum vides quam niteat oratio. Modo etiam paulum ad dexteram de via declinavi, ut ad Pericli sepulcrum accederem. Sed eum qui audiebant, quoad poterant, defendebant sententiam suam. Quorum sine causa fieri nihil putandum est. Philosophi autem in suis lectulis plerumque moriuntur. Atqui reperies, inquit, in hoc quidem pertinacem; Deinde prima illa, quae in congressu solemus: Quid tu, inquit, huc?
+<p>
+	Een bijkomende verwijzing is te vinden naar het golven van het theaterdoek. 
+	Iets waar onze vzw uiteraard mee vertouwd is.
+</p>

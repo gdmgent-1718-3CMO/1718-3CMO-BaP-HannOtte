@@ -4,7 +4,7 @@
 - name: Home
   description: Home
   # folder: pages/
-  permalink: /index 
+  permalink: / 
   # fa-icon: icon-info
 
 - name: Logo
@@ -15,12 +15,30 @@
 
 - name: Kleur
   description: Kleur
-  folder: pages/kleur/
+  #folder: pages/kleur/
   permalink: kleur/
   # fa-icon: icon-info
 
-- name: Styleguide
-  description: Stijlgids voor de Huistijlgids
-  # folder: pages/stijlgids
-  permalink: /stijlgids
+- name: Typo
+  description: Typo
+  #folder: pages/Typo/
+  permalink: typo/
   # fa-icon: icon-info
+
+- name: Huidige productie
+  description: The Wiz
+  #folder: pages/Typo/
+  permalink: wiz/
+  # fa-icon: icon-info
+
+- name: Templates
+  description: Templates
+  folder: pages/templates/
+  permalink: templates/
+  # fa-icon: icon-graduation-cap
+
+- name: Deliverables
+  description: Deliverables
+  # folder: pages/deliverables/
+  permalink: deliverables/
+  # fa-icon: icon-graduation-cap

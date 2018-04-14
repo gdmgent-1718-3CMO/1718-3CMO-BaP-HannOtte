@@ -11,7 +11,10 @@
         .dropdown-menu {
             position: static !important;
             width: 100%;
+            border-radius: 0;
+            
         }
+
         .navbar-nav {
             width: 100%;
         }
@@ -21,10 +24,28 @@
         li.active .dropdown-menu {
             position: static !important;
             display: block  !important;
+
         }
+        .dropdown-item.active, .dropdown-item.dropdown-item:active {
+            background-color: $mycolor-3;
+        }
+
+       
+
      }
 
  }
+
+ .dropdown-menu {
+
+        background-color: $mycolor-4;
+        border-radius: 0;}
+
+.dropdown-item.active {
+            background-color: $mycolor-2;
+        }
+
+        
 
  /* table of contents
  --------------------------- */
